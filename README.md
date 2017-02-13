@@ -1,0 +1,3 @@
+# BenignFile
+
+Just for testing.
